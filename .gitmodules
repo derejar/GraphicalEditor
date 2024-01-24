@@ -1,0 +1,9 @@
+[submodule "libs/wxWidgets"]
+	path = libs/wxWidgets
+	url = https://github.com/wxWidgets/wxWidgets
+[submodule "libs/glm"]
+	path = libs/glm
+	url = https://github.com/g-truc/glm
+[submodule "libs/glew"]
+	path = libs/glew
+	url = https://github.com/Perlmint/glew-cmake
